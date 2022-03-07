@@ -2,5 +2,9 @@
 
 I made my own website for the duo Yoasobi.
 I want to made it clear this website is fanmade, so please do not sue me🙏
-Will be deployed on Netlify.
+
+Netlify Site: https://fanmade-yoasobi-site.netlify.app/
+
+
+
 
